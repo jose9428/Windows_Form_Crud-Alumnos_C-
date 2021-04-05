@@ -1,0 +1,40 @@
+C:\Users\Computer\Desktop\WFormCrudArrayNotas\WFormCrudArrayNotas\bin\Debug\WFormCrudArrayNotas.exe.config
+C:\Users\Computer\Desktop\WFormCrudArrayNotas\WFormCrudArrayNotas\bin\Debug\WFormCrudArrayNotas.exe
+C:\Users\Computer\Desktop\WFormCrudArrayNotas\WFormCrudArrayNotas\bin\Debug\WFormCrudArrayNotas.pdb
+C:\Users\Computer\Desktop\WFormCrudArrayNotas\WFormCrudArrayNotas\obj\Debug\WFormCrudArrayNotas.csprojAssemblyReference.cache
+C:\Users\Computer\Desktop\WFormCrudArrayNotas\WFormCrudArrayNotas\obj\Debug\WFormCrudArrayNotas.Form1.resources
+C:\Users\Computer\Desktop\WFormCrudArrayNotas\WFormCrudArrayNotas\obj\Debug\WFormCrudArrayNotas.Properties.Resources.resources
+C:\Users\Computer\Desktop\WFormCrudArrayNotas\WFormCrudArrayNotas\obj\Debug\WFormCrudArrayNotas.csproj.GenerateResource.cache
+C:\Users\Computer\Desktop\WFormCrudArrayNotas\WFormCrudArrayNotas\obj\Debug\WFormCrudArrayNotas.csproj.CoreCompileInputs.cache
+C:\Users\Computer\Desktop\WFormCrudArrayNotas\WFormCrudArrayNotas\obj\Debug\WFormCrudArrayNotas.exe
+C:\Users\Computer\Desktop\WFormCrudArrayNotas\WFormCrudArrayNotas\obj\Debug\WFormCrudArrayNotas.pdb
+C:\Users\Computer\Downloads\Nueva carpeta (2)\Nueva\Lenguajes\C#\Window Form\WFormCrudArrayNotas\WFormCrudArrayNotas\bin\Debug\WFormCrudArrayNotas.exe.config
+C:\Users\Computer\Downloads\Nueva carpeta (2)\Nueva\Lenguajes\C#\Window Form\WFormCrudArrayNotas\WFormCrudArrayNotas\bin\Debug\WFormCrudArrayNotas.exe
+C:\Users\Computer\Downloads\Nueva carpeta (2)\Nueva\Lenguajes\C#\Window Form\WFormCrudArrayNotas\WFormCrudArrayNotas\bin\Debug\WFormCrudArrayNotas.pdb
+C:\Users\Computer\Downloads\Nueva carpeta (2)\Nueva\Lenguajes\C#\Window Form\WFormCrudArrayNotas\WFormCrudArrayNotas\obj\Debug\WFormCrudArrayNotas.csprojAssemblyReference.cache
+C:\Users\Computer\Downloads\Nueva carpeta (2)\Nueva\Lenguajes\C#\Window Form\WFormCrudArrayNotas\WFormCrudArrayNotas\obj\Debug\WFormCrudArrayNotas.Form1.resources
+C:\Users\Computer\Downloads\Nueva carpeta (2)\Nueva\Lenguajes\C#\Window Form\WFormCrudArrayNotas\WFormCrudArrayNotas\obj\Debug\WFormCrudArrayNotas.Properties.Resources.resources
+C:\Users\Computer\Downloads\Nueva carpeta (2)\Nueva\Lenguajes\C#\Window Form\WFormCrudArrayNotas\WFormCrudArrayNotas\obj\Debug\WFormCrudArrayNotas.csproj.GenerateResource.cache
+C:\Users\Computer\Downloads\Nueva carpeta (2)\Nueva\Lenguajes\C#\Window Form\WFormCrudArrayNotas\WFormCrudArrayNotas\obj\Debug\WFormCrudArrayNotas.csproj.CoreCompileInputs.cache
+C:\Users\Computer\Downloads\Nueva carpeta (2)\Nueva\Lenguajes\C#\Window Form\WFormCrudArrayNotas\WFormCrudArrayNotas\obj\Debug\WFormCrudArrayNotas.exe
+C:\Users\Computer\Downloads\Nueva carpeta (2)\Nueva\Lenguajes\C#\Window Form\WFormCrudArrayNotas\WFormCrudArrayNotas\obj\Debug\WFormCrudArrayNotas.pdb
+D:\Programador\Lenguajes\C#\Window Form\WFormCrudArrayNotas\WFormCrudArrayNotas\bin\Debug\WFormCrudArrayNotas.exe.config
+D:\Programador\Lenguajes\C#\Window Form\WFormCrudArrayNotas\WFormCrudArrayNotas\bin\Debug\WFormCrudArrayNotas.exe
+D:\Programador\Lenguajes\C#\Window Form\WFormCrudArrayNotas\WFormCrudArrayNotas\bin\Debug\WFormCrudArrayNotas.pdb
+D:\Programador\Lenguajes\C#\Window Form\WFormCrudArrayNotas\WFormCrudArrayNotas\obj\Debug\WFormCrudArrayNotas.csprojAssemblyReference.cache
+D:\Programador\Lenguajes\C#\Window Form\WFormCrudArrayNotas\WFormCrudArrayNotas\obj\Debug\WFormCrudArrayNotas.Form1.resources
+D:\Programador\Lenguajes\C#\Window Form\WFormCrudArrayNotas\WFormCrudArrayNotas\obj\Debug\WFormCrudArrayNotas.Properties.Resources.resources
+D:\Programador\Lenguajes\C#\Window Form\WFormCrudArrayNotas\WFormCrudArrayNotas\obj\Debug\WFormCrudArrayNotas.csproj.GenerateResource.cache
+D:\Programador\Lenguajes\C#\Window Form\WFormCrudArrayNotas\WFormCrudArrayNotas\obj\Debug\WFormCrudArrayNotas.csproj.CoreCompileInputs.cache
+D:\Programador\Lenguajes\C#\Window Form\WFormCrudArrayNotas\WFormCrudArrayNotas\obj\Debug\WFormCrudArrayNotas.exe
+D:\Programador\Lenguajes\C#\Window Form\WFormCrudArrayNotas\WFormCrudArrayNotas\obj\Debug\WFormCrudArrayNotas.pdb
+D:\Programador\Lenguajes\C#\Window Form\Notas\WFormCrudArrayNotas\WFormCrudArrayNotas\bin\Debug\WFormCrudArrayNotas.exe.config
+D:\Programador\Lenguajes\C#\Window Form\Notas\WFormCrudArrayNotas\WFormCrudArrayNotas\bin\Debug\WFormCrudArrayNotas.exe
+D:\Programador\Lenguajes\C#\Window Form\Notas\WFormCrudArrayNotas\WFormCrudArrayNotas\bin\Debug\WFormCrudArrayNotas.pdb
+D:\Programador\Lenguajes\C#\Window Form\Notas\WFormCrudArrayNotas\WFormCrudArrayNotas\obj\Debug\WFormCrudArrayNotas.csprojAssemblyReference.cache
+D:\Programador\Lenguajes\C#\Window Form\Notas\WFormCrudArrayNotas\WFormCrudArrayNotas\obj\Debug\WFormCrudArrayNotas.Form1.resources
+D:\Programador\Lenguajes\C#\Window Form\Notas\WFormCrudArrayNotas\WFormCrudArrayNotas\obj\Debug\WFormCrudArrayNotas.Properties.Resources.resources
+D:\Programador\Lenguajes\C#\Window Form\Notas\WFormCrudArrayNotas\WFormCrudArrayNotas\obj\Debug\WFormCrudArrayNotas.csproj.GenerateResource.cache
+D:\Programador\Lenguajes\C#\Window Form\Notas\WFormCrudArrayNotas\WFormCrudArrayNotas\obj\Debug\WFormCrudArrayNotas.csproj.CoreCompileInputs.cache
+D:\Programador\Lenguajes\C#\Window Form\Notas\WFormCrudArrayNotas\WFormCrudArrayNotas\obj\Debug\WFormCrudArrayNotas.exe
+D:\Programador\Lenguajes\C#\Window Form\Notas\WFormCrudArrayNotas\WFormCrudArrayNotas\obj\Debug\WFormCrudArrayNotas.pdb
